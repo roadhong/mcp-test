@@ -1,0 +1,6 @@
+fastmcp
+requests
+rapidfuzz
+hangul_romanize
+gspread
+oauth2client
